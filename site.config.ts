@@ -10,7 +10,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: "Dario's Blog",
+  name: 'DarioLink',
   domain: 'blog2.dariolink.vercel.app',
   author: 'Dario Zhang',
 
