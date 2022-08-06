@@ -11,16 +11,16 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Jenell',
-  domain: 'blog.jenell.vercel.app',
+  domain: 'jenell.dariolink.vercel.app',
   author: 'Jenell',
 
   // open graph metadata (optional)
   description: 'Jenell',
 
   // social usernames (optional)
-  // twitter: '',
+  twitter: '#',
   // github: '',
-  // linkedin: '',
+  linkedin: '#',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
@@ -36,7 +36,7 @@ export default siteConfig({
   // whether or not redis is enabled for caching generated preview images (optional)
   // NOTE: if you enable redis, you need to set the `REDIS_HOST` and `REDIS_PASSWORD`
   // environment variables. see the readme for more info
-  isRedisEnabled: true,
+  isRedisEnabled: false,
 
   // map of notion page IDs to URL paths (optional)
   // any pages defined here will override their default URL paths
