@@ -3,24 +3,24 @@ import { siteConfig } from './lib/site-config'
 export default siteConfig({
   // the site's root Notion page (required)
   // rootNotionPageId: '03c610019e8040ff856fccaee4e7ca98',
-  rootNotionPageId: '1b43a5e041a84d079565cb503c91100e',
+  rootNotionPageId: '82d1f99b33584c75aa72b8da520518dc',
   
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'DarioLink',
-  domain: 'blog2.dariolink.vercel.app',
-  author: 'Dario Zhang',
+  name: 'Jenell',
+  domain: 'blog.jenell.vercel.app',
+  author: 'Jenell',
 
   // open graph metadata (optional)
-  description: 'Note & Push',
+  description: 'Jenell',
 
   // social usernames (optional)
-  twitter: 'dario60271762',
-  github: 'dario-github',
-  linkedin: 'dongcheng-dario-z-033637a0',
+  // twitter: '',
+  // github: '',
+  // linkedin: '',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
