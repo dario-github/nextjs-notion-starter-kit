@@ -11,7 +11,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'DarioLink',
-  domain: 'blog2.dariolink.vercel.app',
+  domain: 'blog.dariolink.vercel.app',
   author: 'Dario Zhang',
 
   // open graph metadata (optional)
